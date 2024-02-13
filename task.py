@@ -1,4 +1,6 @@
 file = open('C:\PerfLogs\example.txt','r+')
+
+
 l_tasks = file
 inp1 = ""
 list(l_tasks)
